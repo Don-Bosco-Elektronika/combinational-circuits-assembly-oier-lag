@@ -23,15 +23,15 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **7447** → NAME?  | ![NAME?](imagen_xor.png) |
+| **7447** → 7447 | ![7447OIERMARTIN.JPG](7447OIERMARTIN.JPG) |
 | **7448** → NAME?  | ![NAME?](imagen_or.png) |
 | **4063** → NAME?  | ![NAME?](imagen_and.png) |
-| **74138** → NAME? | ![NAME?](imagen_not.png) |
-| **7490** → NAME?  | ![NAME?](imagen_nor.png) |
-| **7485** → NAME?  | ![NAME?](imagen_nand.png) |
-| **7483** → NAME?  | ![NAME?](imagen_not.png) |
-| **74147** → NAME? | ![NAME?](imagen_and.png) |
-| **74153** → NAME? | ![NAME?](imagen_and.png) |
+| **74138** → 74138 | ![74138OIERMARTIN.JPG](74138OIERMARTI.JPG) |
+| **7490** → 7490  | ![7490OIERMARTIN.JPG](7490OIERMARTIN.JPG) |
+| **7485** → 7485  | ![7485OIERMARTIN.JPG](7485OIERMARTIN.JPG) |
+| **7483** → 7483  | ![7483OIERMARTIN.JPG](7483OIERMARTIN.JPG) |
+| **74147** → 74147 | ![74147OIERMARTIN.JPG](74147OIERMARTIN.JPG) |
+| **74153** → 74153 | ![74153OIERMARTIN.JPG](74153OIERMARTIN.JPG) |
 | **4051** → NAME?  | ![NAME?](imagen_and.png) |
 
 ---
